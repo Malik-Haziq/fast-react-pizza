@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Malik Haziq**
 - GitHub: [@Malik-Haziq](https://github.com/Malik-Haziq)
-- LinkedIn: [LinkedIn Profile]([your-linkedin-url](https://www.linkedin.com/in/malik-haziq-b5233a231/))
+- LinkedIn: [Malik Haziq](https://www.linkedin.com/in/malik-haziq-b5233a231/))
 
 ## 🙏 Acknowledgments
 
